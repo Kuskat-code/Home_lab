@@ -1,0 +1,17 @@
+Buenas, me presento.
+
+Soy Anthony Sigaran, entusiasta del software libre, apasionado de la pupusas, el cafe, debian y codear cuando se puede.
+
+dicho esto:
+
+En este workflow vas a encontrar la instalacion p empaquetada en .sh de del homelab, ademas de estar los .sh de individuales de tailscale, docker y ollama
+
+
+ Lo que ocupe:
+
+https://tailscale.com/docs/install/linux
+
+https://openwebui.com/
+https://www.docker.com/blog/open-webui-docker-desktop-model-runner/
+
+https://ollama.com/
