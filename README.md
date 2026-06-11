@@ -8,4 +8,17 @@ Séntite libre de forkear este repo y adaptarlo a tus necesidades o simplemente 
 ¿Tienes alguna sugerencia o mejora? Siéntete libre de abrir un Issue, crear un Fork o enviar un Pull Request. Toda contribución es bienvenida.
 
 Powered by | Peperechas_dev <br> 
-            <center>2026</center>
+2026
+
+
+
+
+
+<img width="831" height="555" alt="VPN" src="https://github.com/user-attachments/assets/ed666baf-38f8-4364-9213-449e6077d5a8" />
+
+
+
+
+
+
+
