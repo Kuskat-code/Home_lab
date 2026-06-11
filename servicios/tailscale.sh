@@ -1,5 +1,6 @@
 
 #Instalamos el taiscale
+#!/bin/bash
 set -e #parar
 curl --version
 DEBIAN_CODENAME=$(lsb_release -cs 2>/dev/null || grep VERSION_CODENAME /etc/os-release | cut -d= -f2)
