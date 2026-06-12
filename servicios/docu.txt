@@ -6,3 +6,17 @@ Basicamente, instala e indica el directorio donde estara las claves gpg y  "-m 0
 
 chmod a+r /etc/apt/keyrings/docker.asc 
  da permiso de lectura
+
+
+
+
+ollama .sh
+por defecto he dejado el modelo qwen2.5-coder:3b, podes
+cambiarlo y ocupar el de tu preferencia, yo en mi caso ocupo este por motimos de rendimiento
+
+
+web ui .sh
+"Personalmente es el que mas me gusto trabajarlo"
+
+TARGET_DIR="/mnt/datos/open-webui-data" - este es la ruta donde guarda, podes cambiarlo
+-p 3000:8080 es el puerto donde redirije docker osea el 8080
