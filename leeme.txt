@@ -1,6 +1,6 @@
 Buenas, me presento.
 
-Soy Anthony Sigaran, entusiasta del software libre, apasionado de la pupusas, el cafe, debian y codear cuando se puede.
+Soy Anthony Sigaran, entusiasta del software libre, apasionado de la pupusas, el cafe, debianero, linuxero y codeador cuando se puede.
 
 dicho esto:
 
@@ -15,3 +15,6 @@ https://openwebui.com/
 https://www.docker.com/blog/open-webui-docker-desktop-model-runner/
 
 https://ollama.com/
+
+
+echo "Con amor en S.S"
