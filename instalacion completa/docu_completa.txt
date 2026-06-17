@@ -1,0 +1,28 @@
+Por alguna extrana razon no aparecia la docu de la instalacion completa,  en su ausencia he echo esta:
+
+INTALACION DEL MODELO COMPLETO:
+
+
+1- cd 'instalacion completa'
+2- docker compose up -d #Este levanta el servicio 
+3- docker exec -it ollama_service ollama run llama3  #Este es modelo funcional, pero tu lo pdes cambiar por otro
+
+4- Abre tu navegador e ingresa a: http://localhost:3000 
+
+
+
+INSTALACION DE DIFERENTES MODELOS DE OLLAMA EN EL CONTENDOR: 
+
+opciones:
+
+1- ejecuta el comando para que el contenedor de Ollama descargue y levante el modelo de una vez:
+
+docker exec -it ollama_service ollama run gemma2:2b
+
+2- Si solo querés dejarlo descargado para usarlo después desde la interfaz de Open WebUI y no querés que se te abra el chat en la terminal, usá pull en lugar de run:
+
+docker exec -it ollama_service ollama pull gemma2:2b
+
+
+
+
