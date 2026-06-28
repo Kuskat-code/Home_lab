@@ -7,7 +7,7 @@ Séntite libre de forkear este repo y adaptarlo a tus necesidades o simplemente 
 
 ¿Tienes alguna sugerencia o mejora? Siéntete libre de abrir un Issue, crear un Fork o enviar un Pull Request. Toda contribución es bienvenida.
 
-Powered by | Peperechas_dev <br> 
+Powered by | Kuskat labs <br> 
 2026
 
 
